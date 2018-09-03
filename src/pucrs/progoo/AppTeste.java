@@ -10,7 +10,7 @@ public class AppTeste {
 
 		cadProd.inserir(21, "Lápis 1HB", 1.50);
 		cadProd.inserir(22, "Caneta vermelha", 3);
-		cadProd.inserir(23, "Recarga Caneta Pilot", 10);
+		cadProd.inserir(23, "Recarga Caneta Pilot", 13);
 
 		Venda venda1 = new Venda();
 		Produto prod = cadProd.pesquisar(22);
